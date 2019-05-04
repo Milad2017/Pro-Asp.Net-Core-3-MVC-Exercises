@@ -1,0 +1,12 @@
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\bin\Debug\netstandard2.0\Session08.Exercise.DAL.deps.json
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\bin\Debug\netstandard2.0\Session08.Exercise.DAL.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.AssemblyInfoInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.AssemblyInfo.cs
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\bin\Debug\netstandard2.0\Session08.Exercise.DAL.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\bin\Debug\netstandard2.0\Session08.Exercise.Domain.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\bin\Debug\netstandard2.0\Session08.Exercise.Domain.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.csprojAssemblyReference.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.csproj.CopyComplete
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.DAL\obj\Debug\netstandard2.0\Session08.Exercise.DAL.pdb

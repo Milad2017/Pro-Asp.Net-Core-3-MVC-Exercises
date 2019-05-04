@@ -1,0 +1,16 @@
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.DAL.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.Domain.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.csprojAssemblyReference.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.csproj.CoreCompileInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.AssemblyInfoInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.AssemblyInfo.cs
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.deps.json
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.runtimeconfig.json
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.runtimeconfig.dev.json
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.DAL.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\bin\Debug\netcoreapp2.1\Session08.Exercise.Domain.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.csproj.CopyComplete
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.EndPoint\obj\Debug\netcoreapp2.1\Session08.Exercise.EndPoint.pdb

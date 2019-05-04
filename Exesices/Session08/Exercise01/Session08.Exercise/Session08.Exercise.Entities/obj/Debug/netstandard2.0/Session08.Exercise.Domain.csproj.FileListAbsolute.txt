@@ -1,0 +1,9 @@
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\bin\Debug\netstandard2.0\Session08.Exercise.Domain.deps.json
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\bin\Debug\netstandard2.0\Session08.Exercise.Domain.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\bin\Debug\netstandard2.0\Session08.Exercise.Domain.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.AssemblyInfoInputs.cache
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.AssemblyInfo.cs
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.dll
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.pdb
+C:\Users\Milad\source\repos\Session08.Exercise\Session08.Exercise.Entities\obj\Debug\netstandard2.0\Session08.Exercise.Domain.csprojAssemblyReference.cache

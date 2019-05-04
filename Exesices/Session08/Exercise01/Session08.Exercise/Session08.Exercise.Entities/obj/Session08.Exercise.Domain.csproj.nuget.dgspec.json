@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Milad\\source\\repos\\Session08.Exercise\\Session08.Exercise.Entities\\Session08.Exercise.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Milad\\source\\repos\\Session08.Exercise\\Session08.Exercise.Entities\\Session08.Exercise.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milad\\source\\repos\\Session08.Exercise\\Session08.Exercise.Entities\\Session08.Exercise.Domain.csproj",
+        "projectName": "Session08.Exercise.Domain",
+        "projectPath": "C:\\Users\\Milad\\source\\repos\\Session08.Exercise\\Session08.Exercise.Entities\\Session08.Exercise.Domain.csproj",
+        "packagesPath": "C:\\Users\\Milad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milad\\source\\repos\\Session08.Exercise\\Session08.Exercise.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Milad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
